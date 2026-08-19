@@ -30,8 +30,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Gomez138"
+          git config --global user.email "gabrielb5rx@gmail.com"
 
       - name: Deploy to GitHub Pages
         run: npm run deploy
